@@ -18,9 +18,8 @@ Versiones instaladas:
 - PostgreSQL: <versión> (`psql --version`)
 - MariaDB: <versión> (`mariadb --version`)
 
-El disco es bastante más pequeño que los 250 GB del enunciado, así que fui vigilando el espacio con `df -h`. <Comenta aquí cuánto te quedó libre al final.>
 
-## 2. Lo que fui ejecutando
+## 2.COMANDOS
 
 ### Oracle (Podman)
 
