@@ -4,7 +4,7 @@ Abel · 16/10/2026 · SGBD ASIR2
 
 Esta práctica consiste en instalar Oracle 23ai Free, PostgreSQL y MariaDB en una misma máquina virtual, crear una base de datos y un usuario en cada uno y comprobar que se puede entrar. Lo hice siguiendo el orden del enunciado.
 
-**La máquina virtual.** Usé VirtualBox con una VM llamada `SGBD_LinuxMint_Abelmm`, un Linux Mint de 64 bits con 4 GB de RAM y 2 procesadores. El disco VDI empezó en 25 GB y lo tuve que ampliar a 50 GB. La red está en NAT y la IP de la VM es <IP>.
+** Para la máquina virtual.** Usé VirtualBox con una VM llamada `SGBD_LinuxMint_Abelmm`, un Linux Mint de 64 bits con 4 GB de RAM y 2 procesadores. El disco VDI empezó en 25 GB y lo tuve que ampliar a 50 GB. La red está en NAT y la IP de la VM es <IP>.
 
 ![Configuración de la VM](evidencias/00-vm-config.png)
 
