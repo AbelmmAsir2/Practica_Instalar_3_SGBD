@@ -15,7 +15,7 @@ Esta práctica consiste en instalar Oracle 23ai Free, PostgreSQL y MariaDB en un
 | SGBD | Versión | Cómo lo comprobé |
 |---|---|---|
 | Oracle Database 23ai Free | 23.5.0.0 | `sudo podman images` |
-| PostgreSQL | <versión> | `psql --version` |
+| PostgreSQL | 16.15 | `psql --version` |
 | MariaDB | <versión> | `mariadb --version` |
 
 ## 1. Oracle Database 23ai Free con Podman
