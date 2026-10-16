@@ -122,8 +122,4 @@ GRANT ALL PRIVILEGES ON dbm.* TO 'muser'@'localhost';
 FLUSH PRIVILEGES;
 EXIT;
 ```
-
-Y la comprobación:
-
-```bash
-mariadb -u
+![Conexión a PostgreSQL](evidencias/04-maria.png)
