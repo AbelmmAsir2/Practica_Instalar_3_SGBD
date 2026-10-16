@@ -6,7 +6,7 @@ Instalé tres gestores de bases de datos en la misma VM, creé una base y un usu
 
 ## 1. VM y versiones instaladas
 
-La VM se llama `SGBD_LinuxMint_Abelmm` y está en VirtualBox. Es un Linux Mint de 64 bits con 4 GB de RAM, 2 procesadores y un disco VDI que empecé con 25 GB y amplié a 50 GB (ver apartado 5). Tiene paginación anidada y paravirtualización KVM. La red es un adaptador Intel PRO/1000 MT en NAT, y la IP de la VM es <IP>.
+La VM se llama `SGBD_LinuxMint_Abelmm` y está en VirtualBox. Es un Linux Mint de 64 bits con 4 GB de RAM, 2 procesadores y un disco VDI que empecé con 25 GB y amplié a 150 GB. Tiene paginación anidada y paravirtualización KVM. La red es un adaptador Intel PRO/1000 MT en NAT, y la IP de la VM es <IP>.
 
 ![Configuración de la VM](evidencias/00-vm-config.png)
 
