@@ -144,7 +144,7 @@ Para ver el estado de los servicios usé `systemctl status` con `podman-restart.
 
 ![Estado de podman](evidencias/05-podman-activo.png)
 ![Estado de podman](evidencias/06-post-activo.png)
-![Estado de podman](evidencias/07-mariadb-activo.png)
+![Estado de mariadb](evidencias/07-mariadb-activo.png)
 *Estado de los tres servicios.*
 
 ## 5. Conexiones desde otra máquina
