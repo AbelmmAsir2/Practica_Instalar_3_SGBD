@@ -176,7 +176,7 @@ FLUSH PRIVILEGES;
 
 Reinicié con `sudo systemctl restart mariadb`.
 
-![Conexión remota en MariaDB](evidencias/08-conexionr-mariadb.png)
+![Conexión remota en MariaDB](evidencias/09-conexionr-mariadb.png)
 
 *<Qué se ve: por ejemplo, MariaDB escuchando en 192.168.1.235:3306 o la conexión desde otra máquina.>*
 
