@@ -1,6 +1,6 @@
 # Práctica: instalar tres SGBD
 
-Abel · 16/10/2026 · SGBD ASIR2
+Abel · 16/10/2026
 
 Esta práctica consiste en instalar Oracle 23ai Free, PostgreSQL y MariaDB en una misma máquina virtual, crear una base de datos y un usuario en cada uno y comprobar que se puede entrar. Lo hice siguiendo el orden del enunciado.
 
@@ -144,7 +144,7 @@ Para ver el estado de los servicios usé `systemctl status` con `podman-restart.
 
 ![Estado de podman](evidencias/05-podman-activo.png)
 ![Estado de podman](evidencias/06-post-activo.png)
-![Estado de mariadb](evidencias/10-mariadb-activo.png)
+![Estado de mariadb](evidencias/010-mariadb-activo.png)
 
 *Estado de los tres servicios.*
 
@@ -179,9 +179,9 @@ Reinicié con `sudo systemctl restart mariadb`.
 
 ![Conexión remota en MariaDB](evidencias/09-conexionr-mariadb.png)
 
-*<Qué se ve: por ejemplo, MariaDB escuchando en 192.168.1.235:3306 o la conexión desde otra máquina.>*
+*<MariaDB escuchando en 192.168.1.235:3306 o la conexión desde otra máquina.>*
 
-**Cortafuegos.** <Si UFW estaba inactivo: "UFW estaba inactivo, así que no hizo falta abrir puertos.">
+**Cortafuegos.** <"UFW estaba inactivo, así que no hizo falta abrir puertos.">
 <Si estaba activo:>
 
 ```bash
