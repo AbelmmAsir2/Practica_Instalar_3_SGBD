@@ -128,7 +128,7 @@ Y probé a entrar con `muser`:
 mariadb -u muser -p dbm
 ```
 
-![Conexión a MariaDB](evidencias/04-mariadb.png)
+![Conexión a MariaDB](evidencias/04-maria.png)
 
 *Conectado como `muser` a `dbm`; con `SELECT VERSION();` sale la versión.*
 
